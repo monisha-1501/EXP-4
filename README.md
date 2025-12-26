@@ -38,16 +38,31 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+![Circuit Diagram 1](https://github.com/user-attachments/assets/12d9d072-32f9-48ea-ae1f-3e94c4b97da1)
+
 Bridge rectifier with filter:
+
+![Circuit Diagram 2](https://github.com/user-attachments/assets/d9fc358e-7a55-46ce-b528-a91942554ff5)
 
 TABULAR COLUMN
 Rectifier without filter
-TABULAR COLUMN
+
+![Tabulation 1](https://github.com/user-attachments/assets/2b2cf485-1787-44de-b101-74c441c14625)
+
+T/ABULAR COLUMN
 Rectifier with filter
 
-WAVEFORM:
+![Tabulation 2](https://github.com/user-attachments/assets/f2b9f8da-fdb7-4570-8234-a808711d160c)
 
+WAVEFORM: Half wave rectifier 
+
+![Model Graph 1](https://github.com/user-attachments/assets/d19f6083-492b-42e1-aefa-7b5cbc2a8a25)
+
+Full wave rectifier
+
+![Model Graph 2](https://github.com/user-attachments/assets/409f3245-15ff-451f-b8b4-2f77d2f0ff0f)
 
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
+
