@@ -38,29 +38,29 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
-![Circuit Diagram 1](https://github.com/user-attachments/assets/12d9d072-32f9-48ea-ae1f-3e94c4b97da1)
+![Circuit diagram 1 - exp 4](https://github.com/user-attachments/assets/7e843354-3509-4d05-ba01-8ec42e0835ad)
 
 Bridge rectifier with filter:
 
-![Circuit Diagram 2](https://github.com/user-attachments/assets/d9fc358e-7a55-46ce-b528-a91942554ff5)
+![Circuit diagram 2 - exp 4](https://github.com/user-attachments/assets/100cb014-e57e-471a-8354-7019bbda46ae)
 
 TABULAR COLUMN
 Rectifier without filter
 
-![Tabulation 1](https://github.com/user-attachments/assets/2b2cf485-1787-44de-b101-74c441c14625)
+![Tabulation 1 -exp 4](https://github.com/user-attachments/assets/a805bb3e-be02-4a04-8e84-b290e13d9f52)
 
 T/ABULAR COLUMN
 Rectifier with filter
 
-![Tabulation 2](https://github.com/user-attachments/assets/f2b9f8da-fdb7-4570-8234-a808711d160c)
+![Tabulation 2 - exp 4](https://github.com/user-attachments/assets/356e1c49-2df9-43df-a9bc-b17adb2664ee)
 
 WAVEFORM: Half wave rectifier 
 
-![Model Graph 1](https://github.com/user-attachments/assets/d19f6083-492b-42e1-aefa-7b5cbc2a8a25)
+![Waveform 1 -exp 4](https://github.com/user-attachments/assets/9ba86f38-01b0-419e-b7b6-827df207bbcd)
 
 Full wave rectifier
 
-![Model Graph 2](https://github.com/user-attachments/assets/409f3245-15ff-451f-b8b4-2f77d2f0ff0f)
+![Waveform 2 - exp 4](https://github.com/user-attachments/assets/534bdf14-8dfe-4e7d-9a52-e222ff0ca30e)
 
 RESULT:
 
